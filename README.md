@@ -1,2 +1,2 @@
 # Femboy-generator
-turn your boyfriend into a femboy
+turn your friend into a femboy
