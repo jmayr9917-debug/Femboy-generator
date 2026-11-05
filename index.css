@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 168, 168);
+    background-color: rgb(207, 98, 169);
     margin: 0;
 }
 
@@ -15,6 +15,7 @@ h1 {
     color: rgb(88, 206, 248);
     text-align: center;
     font-size: 70px;
+    font-family: 'Fullwidth', sans-serif;
 }
 
 #Button {
