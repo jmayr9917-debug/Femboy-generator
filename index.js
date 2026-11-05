@@ -1,6 +1,6 @@
 document.getElementById("Button").addEventListener("click", () => {
   // Code to execute when the button is clicked
-  const wahrscheinlichkeitFuerEins = 0.7; // 70 % Chance auf eine 1
+  const wahrscheinlichkeitFuerEins = 0.99; // 99 % Chance auf eine 1
   const number = Math.random() < wahrscheinlichkeitFuerEins ? 1 : 2;
 
   if (number === 1) {
